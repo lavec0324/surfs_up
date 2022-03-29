@@ -1,7 +1,7 @@
 # surfs_up
 Module 9
 
--->
+{::comment}
 
 ## Overview of the Analysis
 
@@ -40,4 +40,4 @@ Additional queries could include:
 * Group by counts on mentors (already included but not originally requested)
 * Could also create queries to see what other roles were performed by employees, not just the current role, to see if mentorship can be expanded where gaps exist.
 
--->
+{:/comment}
