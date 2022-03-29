@@ -1,7 +1,7 @@
 # surfs_up
 Module 9
 
-{::comment}
+{:/comment}
 
 ## Overview of the Analysis
 
