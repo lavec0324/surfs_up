@@ -23,7 +23,7 @@ We can observe the following three differences:
 * The minimum temperature for Decmber is shown as 56 degrees F in December while in June it is 64 degrees F.
 * Observations observed for the month of December are over 183 less than in June which could cause a less accurate result in temperature statistics for the month of December.
 
-Additional from our histograms we can see a much high occurence of temperatures in the 75 degree bands as opposed to the higher occurrence in the 70 degree bands in December:
+Additionally, from our histograms we can see a much high occurence of temperatures in the 75 degree bands as opposed to the higher occurrence in the 70 degree bands in December:
 
 #### June Histogram:
 
